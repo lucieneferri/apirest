@@ -1,6 +1,6 @@
 <h1 align="center"> API REST 🗺</h1>
 
-<p align="justify"> Criação primeira API REST utilizando Django REST Framework </p>
+<p align="center"> API REST de nomes, capitais e a área de alguns países </p>
 
 <img src="https://img.shields.io/static/v1?label=djangorest&message=framework&color=green&style=for-the-badge&logo=DJANGO"/>
 
