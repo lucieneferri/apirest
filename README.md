@@ -11,7 +11,7 @@ CHECK LIST DO PROJETO
 - [X] Adicionando alguns dados na tabela (Model Country) (fixtures).
 - [X] Feita a serialização do model Country (transformando os dados em JSON para armazenamento).
 - [X] Criação das Views utilizando ModelViewSet.
-- [X] Criação rota padrão.
+- [X] Criação rota padrão (DefaultRouter) - Define automaticamente as URLs para o ModelViewSet.
 - [X] API testada no Insomnia.
 
 > Status do Projeto: Concluido :heavy_check_mark:
