@@ -1,4 +1,4 @@
-<h1 align="center"> API REST </h1>
+<h1 align="center"> API REST 🗺</h1>
 
 <p align="justify"> Criação primeira API REST utilizando Django REST Framework </p>
 
